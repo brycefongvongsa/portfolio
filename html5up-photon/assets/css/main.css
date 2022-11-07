@@ -2006,6 +2006,9 @@ input, select, textarea {
 	section.special, article.special {
 		text-align: center;
 	}
+    section.special div.container p, section.special div.container header.major {
+        text-align: left;
+    }
 
 	header p {
 		color: #999;
