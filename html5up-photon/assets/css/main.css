@@ -2396,6 +2396,12 @@ input, select, textarea {
 			.image.fit img {
 				width: 100%;
 			}
+            
+            .image.fit #headshot {
+                width: 60%;
+                margin: auto;
+                border-radius: 10%;
+            }
 
 /* List */
 
